@@ -1,0 +1,16 @@
+*{
+  margin: 100;
+
+} 
+
+body {
+  background: aqua;
+} 
+
+button: {
+  cursor: pointer;
+} 
+
+label: {
+  margin:100;
+}
